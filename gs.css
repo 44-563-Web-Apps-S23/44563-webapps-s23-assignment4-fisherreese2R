@@ -28,3 +28,28 @@
     color: #ff0000; 
     font-size: small; 
     font-family: 'Courier New', Courier, monospace;}
+
+/* elements where class = actorTable */
+.actorTable ,th, td{
+    width: auto;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid black;
+    border-collapse: collapse;
+    border-color: gray;
+}
+
+/* elements where class = header */
+.header{
+    color: #ff0000;
+}
+
+/* elements where class = actor */
+.actor{
+    color: blue;
+}
+
+/* elements where class = underStudy*/
+.underStudy{
+    color: green;
+}

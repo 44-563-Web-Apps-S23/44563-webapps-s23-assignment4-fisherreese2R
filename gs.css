@@ -1,0 +1,30 @@
+/* elemenets where class = speech */
+.speech {
+    color: #000; 
+    font-size: small; 
+    font-family: serif;}
+
+/* elemenets where class = direction */
+.direction {
+    color: rgb(0, 0, 0); 
+    font-size: medium; 
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+.direction:hover{
+    color:#ff0000;
+    background-color: antiquewhite;
+}
+
+/* elements where class = MARY */
+.MARY {
+    color: #3e7100; 
+    font-size: medium; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* elements where class = OLLIVANT */
+.OLLIVANT {
+    color: #ff0000; 
+    font-size: small; 
+    font-family: 'Courier New', Courier, monospace;}

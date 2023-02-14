@@ -39,6 +39,10 @@
     border-color: gray;
 }
 
+.actorTable tr:nth-child(even){
+    background-color: #483838;
+}
+
 /* elements where class = header */
 .header{
     color: #ff0000;
